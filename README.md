@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Lila-Lindrome
-- 👀 I’m interested in ... life simulation game genre
-- 🌱 I’m currently learning ... godot
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I'm Lila, I hate intros.
+
+I'm experimenting with making a ✨ life simulation ✨ game using Godot. We'll see how far we get, eh?
 
 <!---
 Lila-Lindrome/Lila-Lindrome is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
